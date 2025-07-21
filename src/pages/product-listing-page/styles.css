@@ -10,8 +10,8 @@
     font-size: 3rem;
     font-weight: 700;
     margin: 2rem;
-    border-top: .1rem solid black;
-    border-bottom: .1rem solid black;
+    /* border-top: .1rem solid black;
+    border-bottom: .1rem solid black; */
 }
 .plants-container{
     display: flex;
